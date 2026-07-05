@@ -16,10 +16,6 @@
   <a href="https://github.com/SatyaDevCheekatla">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open%20To%20Work-00B37E?style=for-the-badge&logo=checkmarx&logoColor=white"/>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=SatyaDevCheekatla&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
 </p>
 
 </div>
@@ -81,7 +77,6 @@ const satyaDev: QAEngineer = {
 | Reporting | **Allure · Cucumber HTML · TestNG HTML** |
 
 </div>
-
 ---
 
 ## 🛠️ Tech Stack
@@ -319,8 +314,8 @@ Other        ░░░░░░░░░░░░░░░░░░░░░   2
   <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;&nbsp;
-<a href="cheekatlasatyadev@gmail.com">
-  <img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://mail.google.com/mail/?view=cm&to=cheekatlasatyadev@gmail.com">
+  <img src="https://img.shields.io/badge/cheekatlasatyadev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
