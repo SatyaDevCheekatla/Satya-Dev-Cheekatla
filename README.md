@@ -22,7 +22,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 Satya Dev Cheekatla
 
 ```typescript
 const satyaDev: QAEngineer = {
