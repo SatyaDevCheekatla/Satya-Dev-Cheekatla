@@ -22,7 +22,7 @@
 
 ---
 
-## 🧑‍💻 Satya Dev Cheekatla
+## 🧑‍💻 About Me
 
 ```typescript
 const satyaDev: QAEngineer = {
@@ -324,7 +324,6 @@ Other        ░░░░░░░░░░░░░░░░░░░░░   2
 <br /><br />
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Quality%20is%20not%20an%20act%2C%20it%20is%20a%20habit%20%E2%80%94%20and%20I%27ve%20automated%20the%20process%20to%20make%20it%20second%20nature." width="80%" />
-<p align="center"><strong>— Satya Dev Cheekatla</strong></p>
 
 <br /><br />
 
