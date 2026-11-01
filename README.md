@@ -2,11 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1f35,100:0D1117&height=220&section=header&text=Satya%20Dev%20Cheekatla&fontSize=52&fontColor=00D9FF&animation=twinkling&fontFamily=Georgia&realtime=true" width="100%" />
 
-<br/>
+<br />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=80&lines=Building+AI-powered+QA+systems;Testing+better+software+faster;Automating+reliable+digital+experiences)](https://github.com/SatyaDevCheekatla)
 
-<br/>
+<br />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/satya-dev-cheekatla-0a581420b">
@@ -28,6 +28,7 @@
 const satyaDev: QAEngineer = {
   name: "Satya Dev Cheekatla",
   role: "SDET | QA Automation Engineer",
+  company: "Publicis Sapient",
   location: "Hyderabad, India 🇮🇳",
   experience: "4+ Years",
   expertise: ["UI Automation", "API Testing", "AI Agents", "BDD Frameworks"],
@@ -56,7 +57,7 @@ const satyaDev: QAEngineer = {
   </tr>
   <tr>
     <td>🤝</td>
-    <td>Open to <strong>Senior SDET / QA Lead</strong> opportunities — let’s connect!</td>
+    <td>Open to <strong>Senior SDET / QA Lead</strong> opportunities — let’s connect.</td>
   </tr>
 </table>
 
@@ -71,7 +72,7 @@ const satyaDev: QAEngineer = {
 | Public Projects | **7** |
 | Job Portals Automated | **8+** |
 | Languages | **TypeScript · JavaScript · Java · Node.js** |
-| CI/CD | **GitHub Actions (scheduled + on-push)** |
+| CI/CD | **GitHub Actions** |
 | Frameworks | **Playwright · Selenium · Cucumber · RestAssured** |
 | Reporting | **Allure · Cucumber HTML · TestNG HTML** |
 
@@ -120,7 +121,7 @@ const satyaDev: QAEngineer = {
       <img src="https://img.shields.io/badge/Status-Active-00B37E?style=flat-square" />
       <img src="https://img.shields.io/badge/Scheduled-2PM_%26_6PM_IST-00D9FF?style=flat-square" />
       <br /><br />
-      <p><strong>Production-ready AI job search agent</strong> that autonomously scrapes 8+ job portals and delivers fresh leads to Slack.</p>
+      <p><strong>AI-powered job search agent</strong> that scrapes multiple portals and pushes fresh leads to Slack.</p>
       <p>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
@@ -128,10 +129,10 @@ const satyaDev: QAEngineer = {
         <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" />
       </p>
       <ul>
-        <li>🔍 Searches 8+ job portals in a single run</li>
-        <li>⏰ Scheduled via GitHub Actions</li>
-        <li>🔑 Deduplication with persistent JSON storage</li>
-        <li>📸 Screenshot capture on failures</li>
+        <li>🔍 Scans 8+ portals in one run</li>
+        <li>⏰ Scheduled daily at 2PM & 6PM IST</li>
+        <li>🔑 Persistent deduplication & JSON tracking</li>
+        <li>📸 Failure screenshots for debugging</li>
       </ul>
       <a href="https://github.com/SatyaDevCheekatla/Ai-JobAgent">
         <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -142,7 +143,7 @@ const satyaDev: QAEngineer = {
       <img src="https://img.shields.io/badge/Type-Enterprise_BDD-7F77DD?style=flat-square" />
       <img src="https://img.shields.io/badge/Execution-Parallel-00D9FF?style=flat-square" />
       <br /><br />
-      <p><strong>Enterprise-grade BDD automation framework</strong> for ParaBank using Playwright + Cucumber with rich HTML dashboard reports.</p>
+      <p><strong>Enterprise-grade BDD framework</strong> for ParaBank using Playwright + Cucumber with rich HTML reports.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
@@ -150,10 +151,10 @@ const satyaDev: QAEngineer = {
         <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
       </p>
       <ul>
-        <li>🥒 Full Cucumber BDD coverage</li>
-        <li>⚡ Parallel-safe dynamic test data</li>
+        <li>🥒 Feature-driven BDD automation</li>
+        <li>⚡ Parallel-safe data generation</li>
         <li>💳 Banking flows from login to transfers</li>
-        <li>📊 Data-driven profiles</li>
+        <li>📊 Data-driven profiles and reports</li>
       </ul>
       <a href="https://github.com/SatyaDevCheekatla/paraBankAutomation_playwright_cucumber_framework">
         <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -167,7 +168,7 @@ const satyaDev: QAEngineer = {
       <img src="https://img.shields.io/badge/Type-API_Automation-00ADB5?style=flat-square" />
       <img src="https://img.shields.io/badge/Language-Java-ED8B00?style=flat-square" />
       <br /><br />
-      <p><strong>Lightweight Maven framework</strong> for REST API automation against Google Maps API with schema validation and TestNG reporting.</p>
+      <p><strong>REST API automation framework</strong> for Google Maps endpoints with schema validation and HTML reporting.</p>
       <p>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
         <img src="https://img.shields.io/badge/RestAssured-00ADB5?style=flat-square&logo=java&logoColor=white" />
@@ -175,10 +176,10 @@ const satyaDev: QAEngineer = {
         <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" />
       </p>
       <ul>
-        <li>🌐 Full Maps API endpoint coverage</li>
-        <li>📦 Centralized request payloads</li>
-        <li>✅ JSON schema validation</li>
-        <li>📈 TestNG HTML reports</li>
+        <li>🌐 Maps API endpoint coverage</li>
+        <li>📦 Centralized payloads & utilities</li>
+        <li>✅ Schema-based JSON validation</li>
+        <li>📈 TestNG HTML suite reports</li>
       </ul>
       <a href="https://github.com/SatyaDevCheekatla/MapsAPI_RestAssuredFramework">
         <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -189,17 +190,17 @@ const satyaDev: QAEngineer = {
       <img src="https://img.shields.io/badge/Type-API_Automation-00ADB5?style=flat-square" />
       <img src="https://img.shields.io/badge/Language-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       <br /><br />
-      <p><strong>Playwright + TypeScript automation suite</strong> for Google Maps API validation with reusable flows and CI-ready execution.</p>
+      <p><strong>Playwright-based API validation suite</strong> for Google Maps workflows with reusable flows and CLI-ready execution.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
         <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
       </p>
       <ul>
-        <li>🌐 API-focused Playwright coverage</li>
-        <li>🧩 Reusable test flows</li>
-        <li>✅ CI-ready automation setup</li>
-        <li>📊 Easy-to-maintain framework</li>
+        <li>🌐 Maps endpoint automation</li>
+        <li>🧩 Reusable API validation steps</li>
+        <li>✅ CI-ready setup</li>
+        <li>📊 Clean maintenance workflow</li>
       </ul>
       <a href="https://github.com/SatyaDevCheekatla/maps-API-playwright">
         <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -213,7 +214,7 @@ const satyaDev: QAEngineer = {
       <img src="https://img.shields.io/badge/Architecture-MVC-F7DF1E?style=flat-square&logoColor=black" />
       <img src="https://img.shields.io/badge/Reports-Allure-FF5722?style=flat-square" />
       <br /><br />
-      <p><strong>MVC-style Playwright framework</strong> in JavaScript with Allure reporting and GitHub Actions workflow integration.</p>
+      <p><strong>MVC-style Playwright framework</strong> in JavaScript with Allure reporting and GitHub Actions CI/CD.</p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
@@ -221,10 +222,10 @@ const satyaDev: QAEngineer = {
         <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
       </p>
       <ul>
-        <li>🏗️ Clear MVC separation</li>
-        <li>📊 Allure screenshots and videos</li>
-        <li>🔄 Nightly GitHub Actions runs</li>
-        <li>📁 Organized resources, src, tests</li>
+        <li>🏗️ Organized MVC structure</li>
+        <li>📊 Screenshot + video reporting</li>
+        <li>🔄 Automated nightly execution</li>
+        <li>📁 Scalable folder architecture</li>
       </ul>
       <a href="https://github.com/SatyaDevCheekatla/playwrightFramwork">
         <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -235,16 +236,16 @@ const satyaDev: QAEngineer = {
       <img src="https://img.shields.io/badge/Type-Smart_Bot-3178C6?style=flat-square" />
       <img src="https://img.shields.io/badge/Touch-Zero-00B37E?style=flat-square" />
       <br /><br />
-      <p><strong>Smart Playwright + TypeScript bot</strong> that automates Naukri profile updates with cookie-based session persistence.</p>
+      <p><strong>Smart Playwright bot</strong> that automates profile refreshes and keeps job portals active with minimal intervention.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
         <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
       </p>
       <ul>
-        <li>🍪 Cookie-based session persistence</li>
-        <li>🔁 Scheduled refresh via GitHub Actions</li>
-        <li>📄 Resume upload automation</li>
+        <li>🍪 Cookie-backed persistence</li>
+        <li>🔁 Scheduled refresh automation</li>
+        <li>📄 Resume upload flow</li>
         <li>⚡ Zero-touch profile maintenance</li>
       </ul>
       <a href="https://github.com/SatyaDevCheekatla/Naukri_profile_update">
@@ -262,13 +263,13 @@ const satyaDev: QAEngineer = {
 
 | 🎯 Skill Area | 📌 Expertise | 🔧 Tools |
 |:---|:---|:---|
-| **UI Test Automation** | Playwright (TS & JS), Selenium WebDriver (Java), POM pattern | Playwright, Selenium, TypeScript |
-| **API Test Automation** | RestAssured + Java + TestNG, endpoint schema validation | RestAssured, Postman, Newman |
-| **BDD Frameworks** | Cucumber + Playwright + TypeScript, HTML dashboard reports | Cucumber, Gherkin, Feature files |
-| **AI Automation Agents** | Node.js multi-portal agents, Slack webhooks, scheduled pipelines | Node.js, Puppeteer, Slack API |
-| **CI/CD Pipelines** | GitHub Actions workflows, scheduled runs, artifact publishing | GitHub Actions, YAML, npm/Maven |
-| **Reporting** | Allure Reports, Cucumber HTML dashboards, TestNG HTML | Allure, Cucumber HTML, TestNG |
-| **Performance & Scale** | Parallel test execution, worker-safe test data strategies | Playwright workers, TestNG groups |
+| **UI Test Automation** | Playwright, Selenium, POM architecture | Playwright, Selenium, TypeScript |
+| **API Test Automation** | REST APIs, schema validation, TestNG | RestAssured, Postman, Newman |
+| **BDD Frameworks** | Cucumber + Playwright + TypeScript | Cucumber, Gherkin, Feature files |
+| **AI Automation Agents** | Multi-portal job search bots, Slack integration | Node.js, Puppeteer, Slack API |
+| **CI/CD Pipelines** | GitHub Actions, scheduled runs, artifacts | GitHub Actions, YAML, npm/Maven |
+| **Reporting** | HTML dashboards, Allure, TestNG reports | Allure, Cucumber HTML, TestNG |
+| **Performance & Scale** | Parallel execution, reliable data handling | Playwright workers, TestNG groups |
 
 </div>
 
