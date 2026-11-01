@@ -28,7 +28,6 @@
 const satyaDev: QAEngineer = {
   name: "Satya Dev Cheekatla",
   role: "SDET | QA Automation Engineer",
-  company: "Publicis Sapient",
   location: "Hyderabad, India 🇮🇳",
   experience: "4+ Years",
   expertise: ["UI Automation", "API Testing", "AI Agents", "BDD Frameworks"],
