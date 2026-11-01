@@ -253,32 +253,6 @@ const satyaDev: QAEngineer = {
       </a>
     </td>
   </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💡 TypeScript Practice</h3>
-      <img src="https://img.shields.io/badge/Type-DSA_%26_Algorithms-3178C6?style=flat-square" />
-      <img src="https://img.shields.io/badge/Open-Template-23D96C?style=flat-square" />
-      <br /><br />
-      <p><strong>Algorithm and data structure practice</strong> in TypeScript covering arrays, strings, and coding interview patterns.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/ts--node-3178C6?style=flat-square&logo=ts-node&logoColor=white" />
-      </p>
-      <ul>
-        <li>📐 Array and sorting problems</li>
-        <li>🔤 String manipulation tasks</li>
-        <li>🎯 Classic DSA drills</li>
-        <li>📚 Clean, reusable template</li>
-      </ul>
-      <a href="https://github.com/SatyaDevCheekatla/TypescriptPractice">
-        <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      &nbsp;
-    </td>
-  </tr>
 </table>
 
 ---
